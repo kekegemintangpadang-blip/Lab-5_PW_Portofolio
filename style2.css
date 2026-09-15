@@ -1,13 +1,13 @@
-/* 1. STYLING DASAR MEMBEDAKAN BACKGROUND HALAMAN */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: lightgray; /* Warna latar utama */
+    background-color: lightgray; 
 }
 
-/* 2. HEADER & MENU NAVIGASI */
+
 header {
-    background-color: navy; /* Warna header beda */
+    background-color: navy; 
     color: white;
     text-align: center;
     padding: 20px;
@@ -23,24 +23,24 @@ nav {
 
 nav a {
     color: white;
-    margin: 0 10px; /* Jarak antar menu */
-    text-decoration: none; /* Menghilangkan garis bawah link */
+    margin: 0 10px; 
+    text-decoration: none; 
     font-weight: bold;
 }
 
-/* 3. SECTION PROJECT (Home/Project) */
+
 #Project {
-    background-color: white; /* Latar section project beda */
+    background-color: white;
     padding: 30px;
     text-align: center;
 }
 
 #Project h2 {
-    color: darkred; /* Warna judul khusus Project */
+    color: darkred; 
 }
 
 #Project img {
-    width: 300px; /* Mengatur ukuran gambar agar tidak terlalu besar */
+    width: 300px;
     height: auto;
     border: 2px solid gray;
 }
